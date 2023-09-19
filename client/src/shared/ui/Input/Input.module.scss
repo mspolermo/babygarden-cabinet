@@ -1,0 +1,18 @@
+.Input {
+    margin: 0 0 20px;
+    padding: 20px;
+    width: 100%;
+    
+    border: 1px solid var(--border-primary);
+    border-radius: 20px;
+    
+    color: var(--text-primary);
+    font: var(--font-s);
+    font-family: 'Comfortaa', Arial, sans-serif;
+    &::placeholder {
+        opacity: .5;
+    }
+    &:focus {
+        outline: 1px solid var(--border-secondary);
+    }
+}

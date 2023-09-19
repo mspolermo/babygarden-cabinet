@@ -1,0 +1,18 @@
+.Button {
+    cursor: pointer;
+    border: none;
+    padding: 20px 40px;
+    border-radius: 20px; 
+
+    font: var(--font-s);
+    font-weight: 600;
+
+    &__primary {
+        background-color: var(--btn-primary);
+        color: var(--text-primary);
+    }
+    &__secondary {
+        background-color: var(--btn-secondary);
+        color: var(--text-secondary);
+    }
+}

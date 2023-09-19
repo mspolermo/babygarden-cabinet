@@ -1,0 +1,46 @@
+:root {
+    // Шрифты
+    --font-family-main: 'Acrom', Arial, sans-serif;
+    --font-size-s: 14px;
+    --font-line-s: 19px;
+    --font-weight-s: 400;
+    --font-s: var(--font-weight-s) var(--font-size-s) / var(--font-line-s) var(--font-family-main);
+
+    --font-size-m: 18px;
+    --font-line-m: 24px;
+    --font-weight-m: 400;
+    --font-m: var(--font-weight-m) var(--font-size-m) / var(--font-line-m) var(--font-family-main);
+
+    --font-size-l: 24px;
+    --font-line-l: 37px;
+    --font-weight-l: 500;
+    --font-l: var(--font-weight-l) var(--font-size-l) / var(--font-line-l) var(--font-family-main);
+
+    --font-size-xl: 48px;
+    --font-line-xl: 62px;
+    --font-weight-xl: 600;
+    --font-xl:var(--font-weight-xl) var(--font-size-xl) / var(--font-line-xl)  var(--font-family-main) ;
+
+    --font-size-xxl: 48px;
+    --font-line-xxl: 62px;
+    --font-weight-xxl: 600;
+    --font-xxl: var(--font-weight-xxl) var(--font-size-xxl) / var(--font-line-xxl) var(--font-family-main);
+
+    // Размеры
+
+    // Z-индексы
+
+    // Цвета
+    --main-background: #FFFEFB;
+    --add-background: #FFF5DF;
+
+    --text-primary: #4c4253;
+    --text-secondary: #fffefb;
+    --text-red: #fe683d;
+
+    --btn-primary: #ffd159;
+    --btn-secondary: #ff7f17;
+
+    --border-primary: #ffd159;
+    --border-secondary: #fe683d;
+}

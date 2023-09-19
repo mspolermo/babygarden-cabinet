@@ -1,0 +1,17 @@
+{
+    "user1": {
+        "name": "admin",
+        "password": "admin",
+        "email": "mspolermo@gmail.com"
+    },
+    "user2": {
+        "name": "Semen",
+        "password": "123",
+        "email": "mspolermo@gmail.com"
+    },
+    "user3": {
+        "name": "Leonid",
+        "password": "123",
+        "email": "mspolermo@gmail.com"
+    }
+}
